@@ -1,6 +1,6 @@
 # 🤖 Mini-Projeto de Automação Robótica com Python (RPA)
 
-Este projeto foi desenvolvido como parte da AP1 (Avaliação Parcial) da disciplina de Desenvolvimento com Automação Robótica de Processos, com o objetivo de aplicar conceitos de automação robótica utilizando Python. O assistente virtual automatizado criado executa tarefas como abrir programas, fazer pesquisas, capturar telas e navegar por imagens, tudo de forma automática.
+Este projeto foi desenvolvido como parte da AP1 (Avaliação Parcial 01) da disciplina de Desenvolvimento com Automação Robótica de Processos, com o objetivo de aplicar conceitos de automação robótica utilizando Python. O assistente virtual automatizado criado executa tarefas como abrir programas, fazer pesquisas, capturar telas e navegar por imagens, tudo de forma automática.
 
 ---
 
@@ -85,7 +85,7 @@ Ao final da execução, o programa gera automaticamente um arquivo Excel com um 
 
 ## 👥 Projeto em Dupla
 
-Este projeto foi desenvolvido em dupla para fins acadêmicos como parte da AP1 de Programação, utilizando conhecimentos práticos de automação, manipulação de arquivos e estruturas condicionais.
+Este projeto foi desenvolvido em dupla para fins acadêmicos como parte da AP1, utilizando conhecimentos práticos de automação, manipulação de arquivos e estruturas condicionais.
 
 ## 📝 Licença
 
