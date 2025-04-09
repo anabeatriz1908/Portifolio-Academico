@@ -14,16 +14,6 @@ Este repositório reúne exercícios práticos desenvolvidos durante a disciplin
 - 🔎 Sobrescrita de métodos
 - 🧾 Construtores e atributos
 
-## 📂 Organização (exemplos)
-```
-📂 poo-kotlin
- ┣ 📄 funcionarios.kt
- ┣ 📄 contas_bancarias.kt
- ┣ 📄 interrupcao_com_break.kt
- ┣ 📄 funcoes_personalizadas.kt
- ┗ 📄 ...
-```
-
 ## 🎯 Objetivo
 
 Este repositório funciona como um diário de aprendizado e prática em Programação Orientada a Objetos
