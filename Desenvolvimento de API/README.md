@@ -1,5 +1,5 @@
 
-# 🧩🔗 API de Gestão Acadêmica
+# 🧩 API de Gestão Acadêmica 🔗
 
 Este projeto consiste em uma API RESTful desenvolvida com **Flask**, com foco na implementação de um CRUD completo para três entidades: **Aluno**, **Professor** e **Curso**. O projeto foi desenvolvido em grupo como parte de um trabalho acadêmico, utilizando boas práticas como a arquitetura de **blueprints**, separação por camadas e uso de arquivos de configuração.
 
