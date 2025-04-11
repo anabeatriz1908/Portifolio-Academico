@@ -1,5 +1,5 @@
 
-# API de Gestão Acadêmica
+# 🧩💻🔗 API de Gestão Acadêmica
 
 Este projeto consiste em uma API RESTful desenvolvida com **Flask**, com foco na implementação de um CRUD completo para três entidades: **Aluno**, **Professor** e **Curso**. O projeto foi desenvolvido em grupo como parte de um trabalho acadêmico, utilizando boas práticas como a arquitetura de **blueprints**, separação por camadas e uso de arquivos de configuração.
 
@@ -97,5 +97,5 @@ Este projeto foi desenvolvido por em grupo como parte de um projeto da matéria 
 
 ## 📬 Contato
 
-Caso queira entrar em contato para sugestões ou dúvidas, fique à vontade para me procurar por aqui mesmo ou via [LinkedIn](https://www.linkedin.com/in/ana-beatriz-silva-santos/) ou via [Email](ana1908beatrizsantos@gmail.com)
+Caso queira entrar em contato para sugestões ou dúvidas, fique à vontade para me procurar por aqui mesmo ou via [LinkedIn](https://www.linkedin.com/in/ana-beatriz-silva-santos/) ou via E-mail ana1908beatrizsantos@gmail.com
 
