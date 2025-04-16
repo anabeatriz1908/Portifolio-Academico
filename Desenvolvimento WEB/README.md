@@ -32,11 +32,6 @@ https://go-wash-api.onrender.com/api/
 A API utilizada para o login, cadastro e manipulação de dados foi fornecida pelo professor exclusivamente para fins acadêmicos. Caso alguma funcionalidade relacionada à API não funcione corretamente, é possível que o servidor esteja offline ou que a API tenha sido desativada ou removida do banco de dados pelo professor.
 
 
-### Endpoints usados:
-- `POST /login` – Login do usuário.
-- `POST /usuario` – Cadastro de usuário.
-- `GET/POST/PUT` relacionados a endereços (conforme implementações nos arquivos JS).
-
 ## 🚀 Como executar o projeto localmente
 
 1. Faça o download ou clone este repositório.
