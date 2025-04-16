@@ -53,7 +53,7 @@ A API utilizada para o login, cadastro e manipulação de dados foi fornecida pe
 📁 HTML/              → Páginas do site
 📁 JS/                → Scripts de funcionalidade
 📁 FONTES/            → Fontes personalizadas usadas no projeto
-📁 IMAGENS/           → Imagens de fundos, icones, logos, etc
+📁 IMG/           → Imagens de fundos, icones, logos, etc
 ```
 
 ## 👨‍💻 Desenvolvedores
