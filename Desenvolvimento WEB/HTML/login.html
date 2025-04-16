@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <link rel="stylesheet" href="../CSS/login.css">
+    <link rel="shortcut icon" href="../IMG/caveira-ocpotus.png" type="image/png">
+    <script src="../JS/login.js" defer></script>
+    <title>Login</title>
+</head>
+<body>
+
+    <div class="main-login">
+        <div class="login">
+            <div class="card-login">
+                <img src="../IMG/zombies-animate.svg" class="login-image">
+                <h1>LOGIN</h1>
+                <div class="textfield">
+                    <label for="email"></label>
+                    <input type="email" name="email" id="email" placeholder="Email">
+                    <i class="fas fa-user" style="height: 65px"></i>
+                </div>
+                <div class="textfield">
+                    <label for="password"></label>
+                    <input type="password" name="password" id="password" placeholder="Senha">
+                    <i class="fas fa-lock" style="height: 65px"></i>
+                </div>
+                <button class="btn-login" onclick="loginUsuario()">Login</button>
+
+                <h3>Não possui uma conta? <a href="../HTML/cadastro-usuario.html"><strong>Registre-se</strong></a></h3>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

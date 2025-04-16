@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cadastro do Parque</title>
+    <link href='../CSS/cadastro-usuario.css' rel='stylesheet'>
+    <link rel="shortcut icon" href="../IMG/caveira-ocpotus.png" type="image/png">
+    <script src ="../JS/cadastro.js"></script> 
+    
+</head>
+<body>
+
+    <div class="main-login">
+        <div class="login">
+            <div class="card-login">
+                <h1><strong>CADASTRO</strong></h1>
+
+        <form action="site-parque-cadastro-usuario.html" method="POST" style = "display:contents;"> 
+
+            <div class="textfield">
+                <label for="name">Nome</label>
+                <input type="text" name="nome" id="name" placeholder="Nome Completo" required autocomplete="name">
+                <i class="fas fa-user"></i>
+            </div>
+
+            <div class="textfield">
+                <label for="cpf_cnpj">CPF/CNPJ</label>
+                <input type="text" name="cpf_cnpj" id= "cpf_cnpj" placeholder="CPF ou CNPJ" required>
+                <i class="fas fa-user"></i>
+                
+            </div>
+
+            <div class="textfield">
+                <label for="usuario">Data de nascimento</label>
+                <input type="date" name="birthday" id="birthday">
+                <i class="fas fa-user"></i>
+                
+            </div>
+
+            <div class="textfield">
+                <label for="email">E-mail</label>
+                <input type="email" name="email" id="email" placeholder="E-mail">
+                <i class="fas fa-user"></i>
+                
+            </div>
+
+            <div class="textfield">
+                <label for="password">Senha</label>
+                <input type="password" name="password" id="password" minlength="6" maxlength="8" placeholder="Senha">
+                <i class="fas fa-user"></i>
+                
+            </div>
+
+            <div class="checkbox">
+                <input type="checkbox" name="terms" id="terms" style="width: 15px;"> 
+                <label for="terms">Li e concordo com o Termo de Uso</label>
+                
+            </div>
+
+            <input class="btn-login" type="button" value="Salvar" onclick="cadastroUsuario()";>
+
+        </form> 
+    </div>
+    
+</body>
+</html>
